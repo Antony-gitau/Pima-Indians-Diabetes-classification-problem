@@ -26,4 +26,4 @@ Results from the approach
 |:------:|:-------:|:----:|:----------------------------------:|
 0.7467532467532467|0.6379310344827587|0.6727272727272727|74.67532467532467
   
-
+![Certificate](https://github.com/Antony-gitau/Pima-Indians-Diabetes-classification-problem/blob/main/pimaindia.png)
